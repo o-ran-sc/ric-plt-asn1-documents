@@ -1,53 +1,43 @@
 ---
-project: 'ASN.1 definitions and related documents'
-project_creation_date: '2019-10-02'
+project: 'ric_plt_asn1_documents'
+project_creation_date: '2019-11-08'
 project_category: ''
 lifecycle_state: 'Incubation'
-project_lead: &ric-nrt_ptl
+project_lead: &oran_ric_plt_asn1_documents_ptl
     name: 'Thoralf Czichy'
     email: 'thoralf.czichy@nokia.com'
     id: 'czichy'
     company: 'Nokia'
     timezone: 'America/New_York'
-primary_contact: *ric-nrt_ptl
+primary_contact: *oran_ric_plt_asn1_documents_ptl
 issue_tracking:
     type: 'jira'
-    url: 'https://jira.o-ran-sc.org/projects/INT'
-    key: 'INT'
+    url: 'https://jira.o-ran-sc.org/projects/'
+    key: 'ric_plt_asn1_documents'
 mailing_list:
     type: 'groups.io'
-    url: 'https://lists.o-ran-sc.org/g/main'
-    tag: 'unknown'
+    url: 'technical-discuss@lists.o-ran-sc.org'
+    tag: '[]'
 realtime_discussion:
     type: 'irc'
     server: 'freenode.net'
-    channel: '#o-ran-sc'
+    channel: '#oran'
 meetings:
-    - type: 'zoom'
-      agenda: ''
+    - type: 'gotomeeting+irc'
+      agenda: 'https://wiki.o-ran-sc.org/display/'
       url: ''
-      server: 'n/a'
-      channel: 'n/a'
-      repeats: 'weekly'
+      server: 'freenode.net'
+      channel: '#oran'
+      repeats: ''
       time: ''
 repositories:
-    - 'ric-plt/asn1-documents'
+    - ric-plt/asn1-documents
 committers:
-    - name: 'Antti Puhakka'
-      email: 'antti.puhakka@nokia.com'
-      id: 'anpuhakk'
-      company: 'Nokia'
-      timezone: 'America/New_York'
-    - name: 'Alistair Urie'
-      email: 'alistair.urie@nokia.com'
-      id: 'NA'
-      company: 'Nokia'
-      timezone: 'America/New_York'
-    - name: 'Paul Stephens'
-      email: 'paul.stephens@nokia.com'
-      id: 'NA'
-      company: 'Nokia'
-      timezone: 'America/New_York'
-    - <<: *ric-nrt_ptl
+    - <<: *oran_ric_plt_asn1_documents_ptl
 tsc:
-    approval: 'https://wiki.o-ran-sc.org/display/TOC#O-RANSCTechnicalOversightCommittee(TOC)-20191002'
+    # yamllint disable rule:line-length
+    approval: 'missing'
+    changes:
+        - type: ''
+          name: ''
+          link: ''
