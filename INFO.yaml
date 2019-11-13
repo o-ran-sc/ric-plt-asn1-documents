@@ -34,6 +34,15 @@ repositories:
     - ric-plt/asn1-documents
 committers:
     - <<: *oran_ric_plt_asn1_documents_ptl
+#
+# Antti was approved by TOC in 7.c.i on Oct-02-2019 in 
+# https://wiki.o-ran-sc.org/display/TOC/2019+Q4-Oct%2C+Nov%2C+Dec#id-2019Q4-Oct,Nov,Dec-20191002
+#
+    - name: 'Antti Puhakka'
+      email: 'antti.puhakka@nokia.com'
+      id: 'anpuhakk'
+      company: 'Nokia'
+      timezone: 'Europe/Helsinki'
 tsc:
     # yamllint disable rule:line-length
     approval: 'missing'
