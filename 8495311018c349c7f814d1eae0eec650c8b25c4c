@@ -1,0 +1,9 @@
+Verified+1: ORAN Jobbuilder <releng+oran-jobbuilder@linuxfoundation.org>
+Code-Review-1: Aric Gardner <agardner@linuxfoundation.org>
+Code-Review+2: Thoralf Czichy <thoralf.czichy@nokia.com>
+Verified+1: Thoralf Czichy <thoralf.czichy@nokia.com>
+Submitted-by: Thoralf Czichy <thoralf.czichy@nokia.com>
+Submitted-at: Wed, 13 Nov 2019 07:25:14 +0000
+Reviewed-on: https://gerrit.o-ran-sc.org/r/c/ric-plt/asn1-documents/+/1427
+Project: ric-plt/asn1-documents
+Branch: refs/heads/master
