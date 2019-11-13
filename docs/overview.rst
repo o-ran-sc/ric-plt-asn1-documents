@@ -16,13 +16,7 @@
 ..  limitations under the License.
 ..
 
-.. contents::
-   :depth: 3
-   :local:
+Overview
+========
 
-API-docs
-============
-
-The API (ASN.1 definitions) ae defined in the E2AP document and a copy of the ASN.1 is in the ASN.1 file of 
-this repository. This is the version of the E2 that the near-RT RIC platform is implemented against.
-
+The latest release of the near-RT RIC component "asn1-documents" which contains a description of the E2 used in the near-RT RIC implementation under O-RAN-SC.
