@@ -16,19 +16,18 @@
 ..  limitations under the License.
 ..
 
-ASN1 documents
-==============
+Welcome to O-RAN SC ASN.1 documents Documentation
+=================================================
 
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
    :caption: Contents:
 
-   api-docs.rst
-   developer-guides.rst
-   installation-guides.rst
+   overview.rst
    release-notes.rst
 
+* :ref:`genindex`
+* :ref:`modindex`
 * :ref:`search`
-
 

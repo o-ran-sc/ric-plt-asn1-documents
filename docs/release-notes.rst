@@ -16,15 +16,17 @@
 ..  limitations under the License.
 ..
 
+Release Notes
+=============
 
 This document provides the release notes for the latest release of the near-RT RIC component "asn1-documents".
 
 .. contents::
    :depth: 3
-      :local:
+   :local:
 
-Version 1.0.0, October 2019
----------------------------
+[1.0.0] - 2019-10
+-----------------
 * initial version 
 * E2AP document version (PDF, DOC) used in near-RT RIC project
 * ASN.1 copy of the ASN.1 definitions in DOC/PDF document
